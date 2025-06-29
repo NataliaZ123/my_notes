@@ -16,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "c9355d8b49a9a804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,9 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9355d8b49a9a804",
+  "active": "8c1c541e730a2b23",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Установка WSL, настройка окружения.md",
+    "go.md",
+    "Запуск и компиляция го из cmd.md",
+    "Дефер в го.md",
+    "Целочисленные типы в го.md",
+    "Меню с action в ЛИСе.md",
+    "В Delphi кавычки экранируются.md",
+    "Команды IDE делфи, run, compile, reset.md",
+    "MDI приложение с формами.md",
     "MSSQL.md",
     "Хранить фото в базе.md",
     "TabOrder.md",
@@ -197,14 +191,6 @@
     "Поиск медленных запросов  в MS SQL.md",
     "Оптимизатор запросов MSSQL.md",
     "Свойство IDENTITY.md",
-    "Wildcart.md",
-    "name.sql Файлы.md",
-    "Показывать скрытые файлы.md",
-    "SQLcmd.exe.md",
-    "IDE.md",
-    "Кодировки текста.md",
-    "DDL DML.md",
-    "(JSON общая информация, синтаксис).md",
     "Pasted image 20250516215110.png",
     "Untitled.canvas"
   ]

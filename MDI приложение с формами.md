@@ -1,4 +1,4 @@
-MDI(multiple-document interface) Delphi - приложения со вкладками
+MDI(multiple-document interface) [[Delphi]] - приложения со вкладками
 
 -При помощи TabbedNotebook;  TPageControl - одна форма, вкладки
 
@@ -30,6 +30,6 @@ for i := 0 To Form1.MDIChildCount - 1 Do
   begin
     if Form1.MDIChildren[i].Caption = 'Form2' Then
       MDIChildren[i].Show;
-      {Здесь можно активизировать дочернюю MDI-форму
+      {Здесь можно активировать дочернюю MDI-форму
     или выполнить какие-либо действия}
   end;
