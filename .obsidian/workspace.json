@@ -8,20 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37a7f37abc215e85",
+            "id": "8c1c541e730a2b23",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c9355d8b49a9a804",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дебагинг.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дебагинг"
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +85,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,14 +176,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37a7f37abc215e85",
+  "active": "c9355d8b49a9a804",
   "lastOpenFiles": [
+    "Untitled.md",
+    "MSSQL.md",
+    "Хранить фото в базе.md",
+    "TabOrder.md",
     "Дебагинг.md",
+    "try except end.md",
+    "Delphi.md",
+    "Таймер Delphi.md",
+    "Onкакоетособытие.md",
+    "Запрос к бд из программы.md",
+    "Процедуры vs функции.md",
     "Виртуальная машина.md",
     "Приложение с несколькими формами.md",
     "Области видимости.md",
     "Pasted image 20250520231320.png",
-    "Таймер Delphi.md",
     "Индексы.md",
     "Поиск медленных запросов  в MS SQL.md",
     "Оптимизатор запросов MSSQL.md",
@@ -183,18 +202,9 @@
     "Показывать скрытые файлы.md",
     "SQLcmd.exe.md",
     "IDE.md",
-    "Onкакоетособытие.md",
     "Кодировки текста.md",
     "DDL DML.md",
     "(JSON общая информация, синтаксис).md",
-    "Модальное окно.md",
-    "Почтовый клиент.md",
-    "Вызов процедуры.md",
-    "Использование эксель с sql бд.md",
-    "Представления vs процедуры.md",
-    "Процедуры vs функции.md",
-    "Триггеры.md",
-    "NOLOCK.md",
     "Pasted image 20250516215110.png",
     "Untitled.canvas"
   ]
